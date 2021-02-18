@@ -1,1 +1,1 @@
-Hello welcome to github
+Hello welcome to github,understanding git clone, pull, private and public repositories
